@@ -4,8 +4,7 @@ Unzip if necessary
 
 Locate start.js and open in a text editor
 
-You will need a YouTube Data API key. You can get one here:
-https://console.developers.google.com/apis/credentials
+You will need a YouTube Data API key. You can get one here: https://console.developers.google.com/apis/credentials
 
 After creating a new API key, search for "YouTube Data API" in the search bar
 
