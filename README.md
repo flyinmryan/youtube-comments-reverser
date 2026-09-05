@@ -1,4 +1,4 @@
-Clone this repository or download as zip
+Clone this repository or download it as zip
 
 Unzip if necessary
 
