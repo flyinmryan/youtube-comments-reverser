@@ -1,4 +1,4 @@
-Clone this repository or download as zip
+Clone this repository or download it as a zip
 Unzip if necessary
 Locate start.js and open in a text editor
 You will need a YouTube Data API key. You can get one here:
